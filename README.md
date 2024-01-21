@@ -16,5 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-eraf&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="m-eraf" /></p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=m-eraf&theme=dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-eraf" alt="m-eraf" /></p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-eraf" alt="m-eraf" />
 </picture>
