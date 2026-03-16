@@ -1,17 +1,74 @@
 <h1 align="center">Hi 👋, I'm Mohd Eraf</h1>
+<h3 align="center">Full Stack Developer | Backend & System Development</h3>
 
-- 🌱 I’m currently learning **DSA , Node.js , Database**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Development+Enthusiast;React+Native+App+Developer;Building+Scalable+Applications" />
+</p>
 
-<!-- - 📫 How to reach me **eraf9120@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+# 🚀 About Me
+
+* 💻 Full Stack Developer focused on **Backend Systems & Scalable Applications**
+* ⚙️ Experience building **REST APIs, Web Apps, and Mobile Apps**
+* 📱 Developed **Mobile Applications using React Native**
+* 🛒 Built **Shopify Apps & Custom Shopify Stores**
+* 🧠 Strong interest in **System Design, Databases, and Performance Optimization**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-</p> -->
+<a href="mailto:eraf9120@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-eraf&theme=dark&hide_langs_below=1t" alt="m-eraf" /></p>
+# 💻 Tech Stack
 
-<!-- <p><img align="center" src="https://streak-stats.demolab.com?user=m-eraf&theme=dark&&theme=dark&hide_langs_below=1" alt="m-eraf" /></p>
- -->
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,mysql,python,cpp,docker,linux,git" />
+
+</p>
+
+---
+
+## 🧰 Development Focus
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Web%20Applications-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend-APIs%20%26%20Microservices-1F6FEB?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Mobile-React%20Native%20Apps-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Database-Architecture%20%26%20Design-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Shopify-Apps%20%26%20Custom%20Stores-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-eraf&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-eraf&theme=tokyo-night" />
+</p>
+
+
