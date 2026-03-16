@@ -55,14 +55,3 @@
 
 ---
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-eraf&layout=compact&theme=tokyonight" />
-</p>
-
----
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-eraf&theme=tokyo-night" />
-</p>
-
-
