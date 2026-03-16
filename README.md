@@ -10,8 +10,7 @@
 # 🚀 About Me
 
 * 💻 Full Stack Developer focused on **Backend Systems & Scalable Applications**
-* ⚙️ Experience building **REST APIs, Web Apps, and Mobile Apps**
-* 📱 Developed **Mobile Applications using React Native**
+* ⚙️ Experience building **REST APIs, Web Apps, and 📱 Mobile Apps**
 * 🛒 Built **Shopify Apps & Custom Shopify Stores**
 * 🧠 Strong interest in **System Design, Databases, and Performance Optimization**
 
